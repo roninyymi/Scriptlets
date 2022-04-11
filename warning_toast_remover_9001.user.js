@@ -12,7 +12,7 @@
     delay(1000).then(() => {
         const toasts = document.querySelectorAll('.toast-root');
         toasts.forEach(toast => toast.remove());
-        console.log("Warning toast removed!");
+        console.log("Warning toast removed! t. WTR9001");
     });
 
 })()
