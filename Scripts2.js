@@ -1,6 +1,5 @@
 /// RemoveWarningToast.js
 const myInterval = setInterval(ToastClean, 1000);
-
 function ToastClean() {
     const toasts = document.querySelectorAll('.toast-root');
     if (toasts.length > 0) {
