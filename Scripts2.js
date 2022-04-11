@@ -1,4 +1,4 @@
-/// RemoveWarningToast.js
+/// RemoveWarningToast2.js
 const myInterval = setInterval(ToastClean, 1000);
 
 function ToastClean() {
